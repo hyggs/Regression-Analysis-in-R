@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562102599275.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4031432821",
+    "id" : "D41006F1",
+    "lastKnownWriteTime" : 1562108522,
+    "last_content_update" : 1562108522838,
+    "path" : "L:/Studies/YorkUniversity/Undergraduate/FourthYear/SC-MATH3330M2019S2/Assignments/Assignment1/R/Question3.R",
+    "project_path" : "Question3.R",
+    "properties" : {
+        "cursorPosition" : "18,0",
+        "scrollLine" : "9"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
